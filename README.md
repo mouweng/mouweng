@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![mouweng's github stats](https://github-readme-stats.vercel.app/api?username=mouweng&show_icons=true)
+
 This is mouweng, a master studying in ZJU🙋🏻‍♂️
 
 - 👨🏻‍💻 软件工程研究生在读
@@ -26,4 +28,3 @@ This is mouweng, a master studying in ZJU🙋🏻‍♂️
 - 🙌🏻 想要做一个很酷的人
 
 [![](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D287263504&logo=Bilibili&link=https://space.bilibili.com/287263504)](https://space.bilibili.com/287263504)  [![](https://img.shields.io/badge/dynamic/json?color=ee0000&label=Weibo&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D6226103853&logo=Sina%20Weibo&link=https://weibo.com/u/6226103853)](https://weibo.com/u/6226103853)  [![](https://img.shields.io/badge/dynamic/json?color=success&label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmouweng&logo=GitHub&link=https://github.com/mouweng)](https://github.com/mouweng)
-
