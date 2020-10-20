@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![mouweng's github stats](https://github-readme-stats.vercel.app/api?username=mouweng&show_icons=true)
-
 This is mouweng, a master studying in ZJU🙋🏻‍♂️
 
 - 👨🏻‍💻 软件工程研究生在读
