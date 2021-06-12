@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is mouweng, a master studying in ZJU🙋🏻‍♂️
-I'm working as an intern in Tencent👨🏻‍💻
+This is mouweng, a master studying in ZJU 🙋🏻‍♂️
+
+I'm working as an intern in Tencent now 👨🏻‍💻
 
 - 📟 苹果全家桶无脑粉丝
 - 📷 一个风光摄影爱好者
