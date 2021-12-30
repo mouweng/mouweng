@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is mouweng, a master studying in ZJU 🙋🏻‍♂️
 
-I'm working as an intern in Tencent now 👨🏻‍💻
+I once worked as an intern in Tencent👨🏻‍💻
 
 - 📟 苹果全家桶无脑粉丝
 - 📷 一个风光摄影爱好者
@@ -25,3 +25,4 @@ I'm working as an intern in Tencent now 👨🏻‍💻
 - 🥇 熬夜倒数第一名玩家
 - 💣 我的肠胃正在报复我
 - 🙌🏻 想要做一个很酷的人
+- 🔍 正在找寻自我的路上
