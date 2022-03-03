@@ -30,7 +30,8 @@ I once worked as an intern in Tencent👨🏻‍💻
 - 🔍 正在找寻自我的路上
 
 
+Some websites
 
-![weibo](https://img.shields.io/badge/dynamic/json?color=ee0000&label=weibo&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D6226103853&logo=Sina%20Weibo&link=https://weibo.com/u/6226103853)![bilibili](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D287263504&logo=Bilibili&link=https://space.bilibili.com/287263504)![bbtime](https://img.shields.io/static/v1?label=bbtime&message=废话连篇&color=blue)![noteme](https://img.shields.io/static/v1?label=noteme&message=笔记&color=yellow)
+![weibo](https://img.shields.io/badge/dynamic/json?color=ee0000&label=weibo&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D6226103853&logo=Sina%20Weibo&link=https://weibo.com/u/6226103853)    ![bilibili](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D287263504&logo=Bilibili&link=https://space.bilibili.com/287263504)    ![bbtime](https://img.shields.io/static/v1?label=bbtime&message=废话连篇&color=blue)    ![noteme](https://img.shields.io/static/v1?label=noteme&message=笔记&color=yellow)
 
 
