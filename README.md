@@ -3,7 +3,7 @@
 <!--
 **mouweng/mouweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you s🧑🏻‍💻tarted:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 This is mouweng, a master studying in ZJU 🙋🏻‍♂️
 
-I once worked as an intern in Tencent 👨🏻‍💻
+I once worked as an intern in Tencent 🧑🏼‍💻
+
+I'm going to be working at Bytedance on edge computing 👨🏻‍💻
 
 - 📟 苹果全家桶无脑粉丝
 - 📷 一个风光摄影爱好者
