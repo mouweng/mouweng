@@ -15,11 +15,9 @@ Here are some ideas to get you s🧑🏻‍💻tarted:
 - ⚡ Fun fact: ...
 -->
 
-This is mouweng, a master studying in ZJU 🙋🏻‍♂️
+This is mouweng, a software engineer at Bytedance working on edge inference 👨🏻‍💻
 
-I once worked as an intern in Tencent 🧑🏼‍💻
-
-I'm going to be working at Bytedance on edge computing 👨🏻‍💻
+I graduated from ZJU and previously interned at Tencent 🎓
 
 - 📟 苹果全家桶无脑粉丝
 - 📷 一个风光摄影爱好者
@@ -30,8 +28,3 @@ I'm going to be working at Bytedance on edge computing 👨🏻‍💻
 - 👨🏻‍💻 野生后端开发工程师
 - 🔋 想做一个独立开发者
 - 🔍 正在找寻自我的路上
-
-
-Here are some of my websites 🧲
-
-[![github](https://img.shields.io/static/v1?label=github&message=mouweng&color=black)](https://github.com/)  [![bbtime](https://img.shields.io/static/v1?label=bbtime&message=废话连篇&color=blue)](http://wengyifan.com)    [![noteme](https://img.shields.io/static/v1?label=noteme&message=笔记&color=yellow)](http://okfine.cc/)     [![bilibili](https://img.shields.io/static/v1?label=bilibili&message=某翁萨达&color=ff69b4)](https://space.bilibili.com/287263504)     [![photography](https://img.shields.io/static/v1?label=photography&message=摄影作品&color=green)](https://mouweng.github.io/photography/)
